@@ -3,10 +3,10 @@
 # ExplainPedia
 
 ## About this project
-* This project is web application for all levels of knowledge-seekers from children to experts. Powered by the ChatGPT technology of OpenAI, Explainpedia provides straightforward and easy-to-understand explanations for a wide range of topics, from simple concepts like apples to more complex theories like the theory of relativity. To enhance user experience, Explainpedia stores search records in a database for easy retrieval and even have an audio to read out the explanation.
+* This project is a web application for all levels of knowledge-seekers from children to experts. Powered by the ChatGPT technology of OpenAI, Explainpedia provides straightforward and easy-to-understand explanations for a wide range of topics, from simple concepts like apples to more complex theories like the theory of relativity. To enhance user experience, Explainpedia stores search records in a database for easy retrieval and even has audio to read out the explanation.
 
 ## Features
-* Provides explianation in five levels of difficulty:
+* Provides explaination for five levels of difficulty:
     * Child
     * Teen
     * College student
